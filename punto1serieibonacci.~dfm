@@ -1,0 +1,43 @@
+object Form1: TForm1
+  Left = 546
+  Top = 200
+  Width = 928
+  Height = 441
+  Caption = 'Form1'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Button1: TButton
+    Left = 384
+    Top = 32
+    Width = 97
+    Height = 49
+    Caption = 'Serie Fibonacci'
+    TabOrder = 0
+  end
+  object Memo1: TMemo
+    Left = 136
+    Top = 8
+    Width = 129
+    Height = 281
+    Lines.Strings = (
+      'Memo1')
+    ScrollBars = ssVertical
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 40
+    Top = 24
+    Width = 81
+    Height = 49
+    Caption = '1. Serie Fibonacci'
+    TabOrder = 2
+    OnClick = Button2Click
+  end
+end

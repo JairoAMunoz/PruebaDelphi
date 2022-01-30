@@ -1,0 +1,19 @@
+script
+Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Persist Security Info=False;User ID="";Initial Catalog=Clientes;Data Source=DESKTOP-PUAI1HC\SQLEXPRESS01;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=DESKTOP-PUAI1HC;';
+Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Persist Security Info=False;User ID="";Initial Catalog=Clientes;Data Source=DESKTOP-PUAI1HC\SQLEXPRESS01;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=DESKTOP-PUAI1HC;Initial File Name="";Use Encryption for Data=False;Tag with column collation when possible=False;MARS Connection=False;DataTypeCompatibility=0;Trust Server Certificate=False;Application Intent=READWRITE;MultiSubnetFailover=False;Use FMTONLY=False;Authentication="";TransparentNetworkIPResolution=True;
+
+cadena de conexion a SQL server
+
+Servidor
+Server=localhost\SQLEXPRESS01;Database=Clientes;Trusted_Connection=True;
+
+Server name:
+DESKTOP-PUAI1HC\SQLEXPRESS01
+Data Source=DESKTOP-PUAI1HC\SQLEXPRESS01
+
+
+Nombre Base de datos
+Clientes
+
+Usuario: DESKTOP-PUAI1HC\JAIRO
+Password: "" 
